@@ -1,7 +1,6 @@
 ![](nicole_githubbanner.jpg)
 ## Thanks for stopping by!!
 # Hi there 👋
-My drive and willingness to persevere allows me to keep pushing no matter how difficult the task. I approach difficult situations with understanding and compassion that allows me to see things from different perspectives and find creative solutions. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvthompson&layout=compact)](https://github.com/nvthompson/github-readme-stats)
 
