@@ -1,5 +1,8 @@
-### Hi there 👋
+##Thanks for stopping by!! ![Visitor Count](https://profile-counter.glitch.me/{nvthompson}/count.svg)
+## Hi there 👋
+My drive and willingness to persevere allows me to keep pushing no matter how difficult the task. I approach difficult situations with understanding and compassion that allows me to see things from different perspectives and find creative solutions. 
 
+[![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvthompson)](https://github.com/nvthompson/github-readme-stats)
 <!--
 **nvthompson/nvthompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
