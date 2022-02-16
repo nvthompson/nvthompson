@@ -1,4 +1,4 @@
-##Thanks for stopping by!! ![Visitor Count](https://profile-counter.glitch.me/{nvthompson}/count.svg)
+## Thanks for stopping by !! ![Visitor Count](https://profile-counter.glitch.me/{nvthompson}/count.svg)
 ## Hi there 👋
 My drive and willingness to persevere allows me to keep pushing no matter how difficult the task. I approach difficult situations with understanding and compassion that allows me to see things from different perspectives and find creative solutions. 
 
